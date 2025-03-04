@@ -12,8 +12,8 @@ import java.util.stream.Collectors;
 
 public class Service {
     private String country;
-    private final String weatherApiKey = "251de50147cd5e5c99649628ec340bce";
-    private final String  apiKey = "152457bb3e620e4900cdcdf9";
+    private final String weatherApiKey = "";
+    private final String  apiKey = "";
 
     public Service(String country) {
         this.country = country;
